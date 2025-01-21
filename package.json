@@ -1,0 +1,15 @@
+{
+  "name": "ai-agents-web3",
+  "version": "1.0.0",
+  "description": "This project integrates the Goat, Solana, and Eliza SDKs with APIs for consumption.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
